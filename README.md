@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 junior fullstack<br>- 📚  atualmente produzindo em python, c#, c++, js etc<br>- ⚡ buscando novas areas</p>
+<p align="left">- 🔭 backend em estudo<br>- 📚  atualmente produzindo em python, c#, c++, js , javaetc<br>- ⚡ buscando novas areas</p>
 
 ###
 
